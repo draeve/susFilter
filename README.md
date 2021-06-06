@@ -1,5 +1,6 @@
 # susFilter
 hack the earth
+sus(tainability) filter - optimized for canadian sustainability initiatives
 
 [view demo](https://youtu.be/AEZEfeOxGpI)
 
