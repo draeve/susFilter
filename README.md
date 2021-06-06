@@ -1,7 +1,7 @@
 # susFilter
 hack the earth
 
-(view demo){https://youtu.be/AEZEfeOxGpI}
+[view demo](https://youtu.be/AEZEfeOxGpI)
 
 This instagram filter was made using a combination of Figma and SparkAR. This took like tops an hour to make, most of which was spent researching.
 
